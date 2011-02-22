@@ -1,0 +1,9 @@
+{
+    "name": "Graph Hacker News Polls",
+    "description": "Adds a bar graph to the results of Hacker News polls.",
+    "version": "1.0",
+    "content_scripts": [{
+        "matches": ["http://news.ycombinator.com/item*"],
+        "js": ["graph-hn-poll.js"]
+    }]
+}
