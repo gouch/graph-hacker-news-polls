@@ -1,4 +1,4 @@
-# Graph Hacker News Poll #
+# Graph Hacker News Polls #
 
 A Chrome extension that automatically graphs the results of Hacker News polls.
 
