@@ -1,1 +1,8 @@
-Install link: [Graph Hacker News Polls.crx](https://github.com/downloads/gouch/graph-hacker-news-polls/Graph%20Hacker%20News%20Polls.crx)
+# Installation #
+
+Choose the latest package from the [Downloads](https://github.com/gouch/graph-hacker-news-polls/downloads) page.
+
+# Results #
+
+![](demo.png)
+
