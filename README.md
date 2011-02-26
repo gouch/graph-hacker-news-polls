@@ -4,5 +4,5 @@ Choose the latest package from the [Downloads](https://github.com/gouch/graph-ha
 
 # Results #
 
-![](raw/master/demo.png)
+![](/gouch/graph-hacker-news-polls/raw/master/demo.png)
 
