@@ -5,7 +5,7 @@
         "matches": ["http://news.ycombinator.com/item*"],
         "js": ["graph-hn-poll.js"]
     }],
-    "icons": "48": {"icon-48.png"},
+    "icons": {"48": "icon-48.png"},
     "update_url": "https://github.com/gouch/graph-hacker-news-polls/blob/master/manifest.xml",
     "version": "1.1"
 }
