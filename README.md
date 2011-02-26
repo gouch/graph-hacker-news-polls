@@ -4,5 +4,5 @@ Choose the latest package from the [Downloads](https://github.com/gouch/graph-ha
 
 # Results #
 
-![](demo.png)
+![](raw/master/demo.png)
 
