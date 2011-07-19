@@ -1,8 +1,6 @@
 # Graph Hacker News Polls #
 
-A Chrome extension that automatically graphs the results of Hacker News polls.
-
-Install by choosing the latest package in [Downloads](https://github.com/gouch/graph-hacker-news-polls/downloads).
+A Chrome extension that automatically graphs the results of Hacker News polls. [Install the extension](https://github.com/downloads/gouch/graph-hacker-news-polls/graph-hacker-news-polls.crx).
 
 ## Screenshot ##
 
