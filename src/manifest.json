@@ -10,5 +10,5 @@
         "128": "icon-128.png"
     },
     "update_url": "https://raw.github.com/gouch/graph-hacker-news-polls/master/src/manifest.xml",
-    "version": "1.4"
+    "version": "1.5"
 }
