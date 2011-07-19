@@ -10,7 +10,7 @@ Install by choosing the latest package in [Downloads](https://github.com/gouch/g
 
 ## License ##
 
-Copyright (c) 2011 David Gouch
+Copyright © 2011 David Gouch. Licensed under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in 

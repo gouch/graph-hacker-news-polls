@@ -1,6 +1,6 @@
 {
     "name": "Graph Hacker News Polls",
-    "description": "Adds a bar graph to the results of Hacker News polls.",
+    "description": "Graphs the results of Hacker News polls.",
     "content_scripts": [{
         "matches": ["http://news.ycombinator.com/item*"],
         "js": ["script.js"]
@@ -9,6 +9,6 @@
         "48": "icon-48.png", 
         "128": "icon-128.png"
     },
-    "update_url": "https://github.com/gouch/graph-hacker-news-polls/raw/master/updates.xml",
+    "update_url": "https://github.com/gouch/graph-hacker-news-polls/raw/master/update.xml",
     "version": "1.3"
 }
