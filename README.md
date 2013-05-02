@@ -4,7 +4,7 @@ A Chrome extension that automatically graphs the results of Hacker News polls. [
 
 ## Screenshot ##
 
-![](/gouch/graph-hacker-news-polls/raw/master/screenshot.png)
+![](https://raw.github.com/gouch/graph-hacker-news-polls/master/screenshot.png)
 
 ## License ##
 
